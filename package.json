@@ -1,0 +1,15 @@
+{
+  "name": "test-esm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts "
+  },
+  "keywords": [],
+  "author": "Abhishek Raj <abhi@raj.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.2.1"
+  }
+}
